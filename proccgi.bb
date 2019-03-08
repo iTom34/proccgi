@@ -1,4 +1,4 @@
-SRC_URI="https://github.com/varjagg/proccgi.git"
+SRC_URI="git://github.com/varjagg/proccgi.git"
 SRCREV = "${AUTOREV}"
 
 LICENSE="GPL"
