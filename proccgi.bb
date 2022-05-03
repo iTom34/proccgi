@@ -1,6 +1,6 @@
 SUMMARY="proccgi.c package"
 
-SRC_URI="git://github.com/varjagg/proccgi-am.git"
+SRC_URI="git://git@github.com/varjagg/proccgi-am.git;protocol=ssh"
 SRCREV = "${AUTOREV}"
 
 LICENSE="GPLv2"
